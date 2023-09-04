@@ -17,10 +17,10 @@
 
 # gcdfunction(num1,num2)
 
-def gcdfunction(a, b):
-    while b:
-        a, b = b, a % b
-    return a
+# def gcdfunction(a, b):
+#     while b:
+#         a, b = b, a % b
+#     return a
 
 def gcdfunction(a, b):
     while b:
